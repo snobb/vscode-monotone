@@ -1,0 +1,25 @@
+{
+    "name": "monotone",
+    "displayName": "Monotone",
+    "description": "Monotone with tinted comments",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/snobb/vscode-monotone.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monotone",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monotone-color-theme.json"
+            }
+        ]
+    }
+}
