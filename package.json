@@ -22,5 +22,8 @@
                 "path": "./themes/Monotone-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^2.9.2"
     }
 }
