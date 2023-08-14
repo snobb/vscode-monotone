@@ -5,5 +5,5 @@ Monotone colour theme with tinted comments
 
 ## Create the vscode package
 ```
-npx vsce package
+npx @vscode/vsce package
 ```
