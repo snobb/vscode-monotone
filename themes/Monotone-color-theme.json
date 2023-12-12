@@ -507,6 +507,13 @@
       }
     },
     {
+      "name": "python multi docstring",
+      "scope": "punctuation.definition.string.begin.python,punctuation.definition.string.end.python,string.quoted.docstring.multi.python",
+      "settings": {
+        "foreground": "#7f848e"
+      }
+    },
+    {
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
