@@ -1,9 +1,14 @@
 # Monotone colour theme
-Monotone colour theme with tinted comments
+
+Simplistic monotone colour theme with tinted comments.
+![Screenshot](./assets/screenshot.png)
 
 # Packaging
 
+The theme is not published in the VSCode marketplace, but can be installed from the VSIX package file instead.
+
 ## Create the vscode package
-```
-npx @vscode/vsce package
+
+```bash
+$ npx @vscode/vsce package
 ```
