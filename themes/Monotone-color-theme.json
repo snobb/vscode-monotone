@@ -1930,7 +1930,7 @@
     "editor.selectionHighlightBorder": "#495F77",
     "editor.findMatchBackground": "#515c6a",
     "editor.findMatchBorder": "#74879f",
-    "editor.findMatchHighlightBackground": "#eaec007a",
+    "editor.findMatchHighlightBackground": "#e8ec003e",
     "editor.findMatchHighlightBorder": "#ffffff00",
     "editor.findRangeHighlightBackground": "#3a3d4166",
     "editor.findRangeHighlightBorder": "#ffffff00",
